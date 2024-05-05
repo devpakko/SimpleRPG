@@ -1,1 +1,1 @@
-# Simple Role Playing RPG using Html Css and Javascript
+# Simple RPG using Html Css and Javascript
